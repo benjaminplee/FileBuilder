@@ -1,0 +1,50 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="371DAB8E-D3DF-4DEB-B82C-A344EF69A2D2/f:Build.cs" caret="428" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="371DAB8E-D3DF-4DEB-B82C-A344EF69A2D2/f:Build.cs" caret="56" fromTop="1" />
+      <File id="371DAB8E-D3DF-4DEB-B82C-A344EF69A2D2/f:Build.cs" caret="177" fromTop="8" />
+      <File id="371DAB8E-D3DF-4DEB-B82C-A344EF69A2D2/f:Build.cs" caret="467" fromTop="16" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="new" priority="0" />
+      <Item value="FileInfo" priority="0" />
+      <Item value="basePath" priority="0" />
+      <Item value="Console`0" priority="1" />
+      <Item value="baseDirectory" priority="1" />
+      <Item value="DirectoryInfo`0" priority="0" />
+      <Item value="fileAttributes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileInfo">
+      <Item value="Exists" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.DirectoryInfo">
+      <Item value="Attributes" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
